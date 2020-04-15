@@ -1,0 +1,5 @@
+matrix-pr12 (1.0-1) unstable; urgency=low
+
+  * Initial release of matrix theme which has fixed virtual keyboard for PR1.2 firmware
+
+ -- D-Iivil <ricky@hevikaraoke.fi>  Mon, 12 Jul 2010 10:26:04 -0700 
