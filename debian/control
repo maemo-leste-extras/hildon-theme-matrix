@@ -1,10 +1,10 @@
-Source: matrix-pr12
+Source: hildon-theme-matrix
 Section: user/system
 Priority: optional
 Maintainer: D-Iivil <ricky@hevikaraoke.fi>
 Standards-Version: 3.6.0
 
-Package: matrix-pr12
+Package: hildon-theme-matrix
 Architecture: all
 Description: Matrix-style Hildon theme with working PR1.2 virtual keyboard
  Based on original Matrix-theme by Lacedaemon, just added the missing new virtual keyboard's buttons.

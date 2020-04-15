@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Background Image
+Name=Hildon Theme Matrix
+File=/usr/share/themes/hildon-theme-matrix/backgrounds/wallpaper.jpg
+
+X-File1=/usr/share/themes/hildon-theme-matrix/backgrounds/wallpaper1.jpg
+X-File2=/usr/share/themes/hildon-theme-matrix/backgrounds/wallpaper2.jpg
+X-File3=/usr/share/themes/hildon-theme-matrix/backgrounds/wallpaper3.jpg
+X-File4=/usr/share/themes/hildon-theme-matrix/backgrounds/wallpaper4.jpg
+
+X-Order=01

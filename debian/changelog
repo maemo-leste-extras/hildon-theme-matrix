@@ -1,4 +1,10 @@
-matrix-pr12 (1.0-1) unstable; urgency=low
+hildon-theme-matrix (1.1-1) unstable; urgency=low
+
+  * Initial Maemo Leste import
+
+ -- Merlijn Wajer <merlijn@wizzup.org>  Wed, 15 Apr 2020 23:42:31 +0200
+
+hildon-theme-matrix (1.0-1) unstable; urgency=low
 
   * Initial release of matrix theme which has fixed virtual keyboard for PR1.2 firmware
 

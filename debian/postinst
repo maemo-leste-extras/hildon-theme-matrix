@@ -1,4 +1,4 @@
 #!/bin/sh
 
-rm -rf /usr/share/themes/matrix-pr12/gtk-2.0/*.cache
-hildon-theme-cacher /usr/share/themes/matrix-pr12
+rm -rf /usr/share/themes/hildon-theme-matrix/gtk-2.0/*.cache
+hildon-theme-cacher /usr/share/themes/hildon-theme-matrix

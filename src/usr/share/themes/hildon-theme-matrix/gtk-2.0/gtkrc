@@ -4,8 +4,8 @@
 # Copyright Nokia Corporation 2007
 # Licensed under Creative Commons Attribution-ShareAlike 2.5 license
 
-pixmap_path "/usr/share/themes/matrix-pr12/images"
-gtk-theme-name = "Matrix PR12"
+pixmap_path "/usr/share/themes/hildon-theme-matrix/images"
+gtk-theme-name = "Matrix Theme"
 gtk-icon-theme-name = "hicolor"
 
 style "osso-default"

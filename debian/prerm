@@ -1,4 +1,4 @@
 #!/bin/sh
-rm -r /usr/share/themes/matrix-pr12
+rm -r /usr/share/themes/hildon-theme-matrix
 # rm -r /usr/share/icons/matrix
 return 0

@@ -20,8 +20,8 @@ install: build
 	dh_installdirs
 
 	#====================================================
-#	mkdir -p "$(CURDIR)/debian/matrix-pr12"
-#	cp -rf "src/usr" "$(CURDIR)/debian/matrix-pr12/"
+#	mkdir -p "$(CURDIR)/debian/hildon-theme-matrix"
+#	cp -rf "src/usr" "$(CURDIR)/debian/hildon-theme-matrix/"
 
 binary-indep: build install
 	dh_testdir
@@ -33,8 +33,8 @@ binary-indep: build install
 	dh_fixperms
 	dh_installdeb
 	dh_gencontrol
-	mkdir -p $(CURDIR)/debian/matrix-pr12
-	cp -rf $(CURDIR)/src/usr $(CURDIR)/debian/matrix-pr12/
+	mkdir -p $(CURDIR)/debian/hildon-theme-matrix
+	cp -rf $(CURDIR)/src/usr $(CURDIR)/debian/hildon-theme-matrix/
 	dh_md5sums
 	dh_builddeb
 

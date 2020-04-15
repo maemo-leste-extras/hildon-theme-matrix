@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-Hildon-Metatheme
+Name=Matrix Theme
+Icon=/usr/share/themes/hildon-theme-matrix/images/qgn_plat_theme_thumbnail.png
+Encoding=UTF-8
+
+[X-Hildon-Metatheme]
+GtkTheme=hildon-theme-matrix
+IconTheme=default
+X-MatchboxTheme=hildon-theme-matrix
+X-AdditionalRCFiles=maemo_af_desktop
+X-OperaSkin=default.zip
