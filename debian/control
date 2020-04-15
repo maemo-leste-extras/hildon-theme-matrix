@@ -1,7 +1,8 @@
 Source: hildon-theme-matrix
-Section: user/system
+Section: user/desktop
 Priority: optional
 Maintainer: D-Iivil <ricky@hevikaraoke.fi>
+Build-Depends: debhelper (>= 4.0.0), hildon-theme-layout-5, hildon-theme-tools, imagemagick, pkg-config
 Standards-Version: 3.6.0
 
 Package: hildon-theme-matrix
